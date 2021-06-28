@@ -1,0 +1,13 @@
+var stdObject = {};
+stdObject.clgname = "itmgoi";
+stdObject.batch = 2021;
+stdObject.name = "mansi";
+stdObject.gender = "female";
+stdObject.enrollmentno = 85;
+stdObject.degree = "btech";
+console.log("College Name: " + stdObject.clgname);
+console.log("Batch: " + stdObject.batch);
+console.log("Name: " + stdObject.name);
+console.log("Gender: " + stdObject.gender);
+console.log("Enrollment: " + stdObject.enrollmentno);
+console.log("Degree: " + stdObject.degree);
